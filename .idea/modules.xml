@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicJavaProgram/BasicJavaProgram.iml" filepath="$PROJECT_DIR$/BasicJavaProgram/BasicJavaProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalStatement/ConditionalStatement.iml" filepath="$PROJECT_DIR$/ConditionalStatement/ConditionalStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MakingClassAndObject/MakingClassAndObject.iml" filepath="$PROJECT_DIR$/MakingClassAndObject/MakingClassAndObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrappedRainWater/TrappedRainWater.iml" filepath="$PROJECT_DIR$/TrappedRainWater/TrappedRainWater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two pointer/Two pointer.iml" filepath="$PROJECT_DIR$/Two pointer/Two pointer.iml" />
+    </modules>
+  </component>
+</project>
